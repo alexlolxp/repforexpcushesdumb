@@ -1,0 +1,48 @@
+{
+	"storyName": "Ms. Perfect",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Sophistry",
+			"skieonsta",
+			[
+				106,
+				173,
+				255
+			]
+		],
+		[
+			"Ideal Standards",
+			"skieonsta",
+			[
+				106,
+				173,
+				255
+			]
+		],
+		[
+			"Ms Perfect",
+			"skieonsta",
+			[
+				40,
+				133,
+				195
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "Ms Perfect Week"
+}
